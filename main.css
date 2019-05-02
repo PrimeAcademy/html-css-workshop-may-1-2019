@@ -1,0 +1,35 @@
+/* select the body element and make all the text inside red */
+body {
+    color: red;
+}
+
+header {
+    border: 2px solid gray;
+    width: 50%;
+    font-size: 10px;
+    font-family: Arial, sans-serif;
+    text-align: right;
+    background-color: yellow;
+}
+
+section {
+    border: 5px dotted purple;
+    border-radius: 10px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSqhHtfOKhIipBzCk2wl-AhW1yfsW7DekO1aDCOEYVTAkCsVdKw");
+    background-size: cover;
+    padding: 30px;
+    margin: 80px;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+}
